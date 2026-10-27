@@ -54,6 +54,7 @@ This repository exists to document, track, and make sense of that shift.
 - [Saleor](https://saleor.io/agentic-commerce)
 - [OrcaQubits](https://orcaqubits-ai.com/)
 - [Zinc](https://www.zinc.com/)
+- [Agent Payment Node](https://github.com/nuanu-ai/agent-payment-node) — Local buyer-side x402 payment runtime and stdio MCP tools for AI agents; Apple Silicon macOS and Node 24 only.
 
 ## 🧩 Protocol Deep Dives
 
